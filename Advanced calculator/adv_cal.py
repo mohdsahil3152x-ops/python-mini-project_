@@ -1,34 +1,3 @@
-# first_number = float(input("Enter your first number :"))
-# second_number = float(input("Enter your second number :"))
-
-# operator = input("Enter operator:")
-# try:
-#     if operator == "+":
-#         result = first_number + second_number
-#         print(result)
-
-#     elif operator == "-":
-#         result = first_number - second_number
-#         print(result)
-
-#     elif operator == "/":
-#         result = first_number/second_number
-#         print(result)
-    
-#     elif operator == "*":
-#         result = first_number * second_number
-#         print(result)
-
-#     else:
-#         print("invalid operator")
-
-    
-
-   
-# except ZeroDivisionError as e:
-#     print("can't divide by zero")
-
-
 
 import math
 
